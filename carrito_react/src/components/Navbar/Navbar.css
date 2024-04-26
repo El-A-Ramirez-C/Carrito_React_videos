@@ -1,0 +1,39 @@
+.nav-container{
+    position: sticky;
+    z-index: 3;
+    top: 0;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+    background-color: black;
+}
+.navbar-logo{
+    justify-self: start;
+    margin-left: 30px;
+    color: #fff;
+    margin-top: 4vh;
+    cursor: pointer;
+}
+.navbar a{
+    text-decoration: none;
+}
+.seeCarrito{
+    font-size: 50px;
+    margin-right: 20px;
+    margin-top: 1vh;
+    cursor: pointer;
+    text-decoration: none;
+    border: #fff solid 1px;
+    border-radius: 100px;
+    padding: 5px;
+}
+.cart-items-total{
+    color: red;
+    font-size: 20px;
+    margin-right: 1px;
+    border: red solid 1px;
+    border-radius: 100px;
+    padding: 5px;
+}

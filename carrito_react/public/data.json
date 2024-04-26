@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "name": "Git y GitHub desde cero",
+        "author": "Brais Moure",
+        "price": 348,
+        "img":"https://m.media-amazon.com/images/I/61o+DINUL6L._SY342_.jpg",
+        "quanty": 1
+        
+    },
+    {
+        "id": 2,
+        "name": "Aprendiendo React",
+        "author": "Carlos Azaustre",
+        "price": 384,
+        "img":"https://m.media-amazon.com/images/I/61Xtp2n7omL._SY342_.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 3,
+        "name": "Clean Code",
+        "author": "Robert Martin",
+        "price": 873,
+        "img":"https://m.media-amazon.com/images/I/51E2055ZGUL._SY342_.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 4,
+        "name": "Ultimate Python",
+        "author": "Nicolas Schurmann",
+        "price": 516,
+        "img":"https://m.media-amazon.com/images/I/61c7XofgsYL._SY342_.jpg",
+        "quanty": 1
+    }
+       
+]
